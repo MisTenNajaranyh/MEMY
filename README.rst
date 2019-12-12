@@ -1,7 +1,7 @@
-HentAPI
+MEMYAPI
 ========
 
-**HentAPI - hentai api, works only in python.**
+**MEMYAPI - Działa tylko na python. API By Strzelczyk**
 
 How to install:
 --------
@@ -18,13 +18,13 @@ Documentation:
 
     from MEMY import memy
 
-    hentai.randomHentai() #gives a random image url
+    memy.randomMemy() #gives a random image url
 
 .. code:: py
 
     from MEMY import memy
 
-    hentai.sendWebhook(url="webhook url", name="webhook name [optional]", avatar="webhook avatar url [optional]") #webhook send a random image in embed
+    memy.sendWebhook(url="webhook url", name="webhook name [optional]", avatar="webhook avatar url [optional]") #webhook send a random image in embed
 
 Links:
 --------
