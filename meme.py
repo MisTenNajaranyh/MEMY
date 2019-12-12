@@ -9,7 +9,7 @@ import random
 
 imagesnum = 30
 
-def randomHentai(limit: int=imagesnum):
+def randomMeme(limit: int=imagesnum):
     r = random.randint(1, limit)
     rh = f"https://MisTenNajaranyh.github.io/MisTenNajaranyh/images/{r}.png"
     return rh
