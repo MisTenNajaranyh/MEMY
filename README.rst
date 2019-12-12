@@ -3,7 +3,7 @@ MEMYAPI
 
 **MEMYAPI - Działa tylko na python. API By Strzelczyk**
 
-How to install:
+Jak zainstalować:
 --------
 
 .. code:: sh
@@ -12,7 +12,7 @@ How to install:
     $ git clone https://github.com/MisTenNajaranyh/MEMY.git
     $ thats all
 
-Documentation:
+Dokumentacja:
 --------
 .. code:: py
 
@@ -26,6 +26,6 @@ Documentation:
 
     memy.sendWebhook(url="webhook url", name="webhook name [optional]", avatar="webhook avatar url [optional]") #webhook send a random image in embed
 
-Links:
+Link Na Supporta:
 --------
 - Discord - https://discord.gg/9shvrQ2
